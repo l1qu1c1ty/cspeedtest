@@ -2,6 +2,7 @@
 Speed Test with Ookla Console
 
 -- Setup instructions --
+
 0. write terminal 
 1. git clone https://github.com/melihcan1376/cspeedtest
 2. cd cspeedtest
@@ -10,7 +11,8 @@ Speed Test with Ookla Console
 5. pip install -r requirements.txt
 6. python cspeedtest.py
 
-or
+OR
+
 0. write terminal
 1. git clone https://github.com/melihcan1376/cspeedtest
 2. Double Click cspeedtest.exe
